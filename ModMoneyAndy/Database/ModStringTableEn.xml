@@ -1,0 +1,21 @@
+﻿<Database>
+    <GameDBStringTable ID="2TIMES_MONEY_ANDY_MOD">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Andreas Fritz</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>
+                <LocID>2TIMES_MONEY_ANDY_MOD</LocID>
+                <Text>2x Money</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+
+</Database>
